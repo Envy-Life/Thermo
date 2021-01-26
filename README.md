@@ -6,3 +6,4 @@ The new code is python link to old code : https://github.com/LearnersClub/thermo
 Now you don’t have to change the path, just same the files in the same folder>
 *****HELP NEEDED*****
 If any of you want to contribute please take any substance of your choice , create a excel sheet with temperature as A column , Pressure as B coloumn and Volume as C column and send it to Varun L or Varun Sahni.
+This currently works only with water but if all of you can contribute we can make it work for all substances.
